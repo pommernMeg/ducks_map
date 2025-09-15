@@ -5,15 +5,15 @@
            "type": "Feature",
            "geometry": {
                "coordinates": [
-                   19.937,
-                   50.061
+                   19.938,
+                   50.062
                ],
                "type": "Point"
            },
            "properties": {
                "name": "Chewduckka",
                "number": "1",
-               "picture": "https://photos.fife.usercontent.google.com/pw/AP1GczOpUvV8NJH1HDhDt4kCLWtsgL6YggWyUh-0cd6KOXBu9BCmzDuY_1NrvQ=w743-h1031-s-no-gm",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPh-pacw6g6fQP9fQrE-9PXjKkP9eG6R2zJaC_Gfpitbs0AL0qgQCFsLSk_V33-HZaw4EUuRPGVhfhAMufzwIE89jO04r7RNAE5PuYrgNpS4zvMnhwA4rwWD_i4_UYcVa8M7opK9itevV3glK40CeN8hg=w743-h1031-s-no-gm",
                "url": "https://photos.app.goo.gl/iHEwor9nnUUKXWkp8",
                "ingress-swag": "https://www.ingress-swag.com/biocards/chewduckka/",
                "desscription": "<placeholder>",
@@ -27,15 +27,15 @@
            "type": "Feature",
            "geometry": {
                "coordinates": [
-                   19.938,
-                   50.062
+                   19.936,
+                   50.061
                ],
                "type": "Point"
            },
            "properties": {
                "name": "Mistress Quack",
                "number": "2",
-               "picture": "https://photos.fife.usercontent.google.com/pw/AP1GczPg9776CjFv5A8efmWzWx-zhG6CkIDy-2AlIsCfNwZCaKt07HjPFALwuQ=w743-h1031-s-no-gm",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPeFK-HWFh6uWQIcF5CEd9qOyZhaVQfM2Kw_vmvnNbLIeHT_yXTXivtzQ1LFl-3IfF6tiBuYBgeOSlYik7YKhSvnILeeMgrLAWS7OWXxjjTQVwemajjRCiNvaj8dvP1eDRWMiEuVfK3UWXXtz7YkekDkQ=w743-h1031-s-no-gm",
                "url": "https://photos.app.goo.gl/2qvxuudDkkL6y7s87",
                "ingress-swag": "https://www.ingress-swag.com/biocards/mistress-quack/",
                "desscription": "<placeholder>",
