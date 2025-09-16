@@ -181,8 +181,8 @@
            "type": "Feature",
            "geometry": {
                "coordinates": [
-                11.3668037,
-                47.3004546
+                7.85222,
+                47.9959
                ],
                "type": "Point"
            },
@@ -195,7 +195,7 @@
                "description": "Say hello to Fuelie – the bright blue duck born to pump up your bath-time energy. With its signature ARAL branding and vibrant orange beak, this promotional duck made its way from Freiburg to your collection, leaving a trail of bubbles and high-octane charm.",
                "from": " @derFreiburger",
                "status": "Trade",
-               "place": "Innsbruck, Austria"
+               "place": "Freiburg, Germany"
            },
            "id": "9"
        }
