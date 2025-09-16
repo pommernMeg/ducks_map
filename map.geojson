@@ -13,8 +13,8 @@
            "properties": {
                "name": "Chewduckka",
                "number": "1",
-               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPh-pacw6g6fQP9fQrE-9PXjKkP9eG6R2zJaC_Gfpitbs0AL0qgQCFsLSk_V33-HZaw4EUuRPGVhfhAMufzwIE89jO04r7RNAE5PuYrgNpS4zvMnhwA4rwWD_i4_UYcVa8M7opK9itevV3glK40CeN8hg=w743-h1031-s-no-gm",
-               "url": "https://photos.app.goo.gl/iHEwor9nnUUKXWkp8",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczP5tIEteZLiAdo8dHi3Y5Ho3zps4C4Cf9_nty0iOTEyxdAIkLa2iwpqoo39KXesMYRdhp3bxILLcIm3_Bs9oPxpi_zP0e4A1Jxl6kcsij2BD1DMljrJDPtdFftbSQUlo0k596X-q8nQ2TvpZk7J2izt7A=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/FFWbamZHuybo6xTM9",
                "swag": "https://www.ingress-swag.com/biocards/chewduckka",
                "description": "A uniquely crafted rubber duck inspired by the legendary Wookiee warrior Chewbacca.With shaggy fur, a bandolier across its chest, and a fierce yet lovable expression, this duck brings a touch of the galaxy far, far away to any collection.",
                "from": "@r3f1Zul",
@@ -35,8 +35,8 @@
            "properties": {
                "name": "Mistress Quack",
                "number": "2",
-               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPeFK-HWFh6uWQIcF5CEd9qOyZhaVQfM2Kw_vmvnNbLIeHT_yXTXivtzQ1LFl-3IfF6tiBuYBgeOSlYik7YKhSvnILeeMgrLAWS7OWXxjjTQVwemajjRCiNvaj8dvP1eDRWMiEuVfK3UWXXtz7YkekDkQ=w743-h1031-s-no-gm",
-               "url": "https://photos.app.goo.gl/2qvxuudDkkL6y7s87",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczMSxMg8dKcTJwldcZBidwtA59UVffV1BaphqOrnAEZXz175Sd5WDjWEyi4Fn2_lWfpmEJVpObeXGUmw1fGIq12UDUdD51PrMMe1IQ5RNaLbBKNyU31pKCbHETPTTYNSrFsy-KtSs1q6az2C1UV_nUGUxg=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/viuhCdakvJDVJo4G9",
                "swag": "https://www.ingress-swag.com/biocards/mistress-quack",
                "description": "Meet Mistress Quack – a dominantly delightful rubber duck who knows exactly who's in charge.Clad in faux leather, with a tiny ballgag beak and a confident stare, she brings a cheeky touch of BDSM flair to any collection. Whether in the tub or on display, she commands attention… and obedience.",
                "from": "@Prinzessin33",
@@ -57,8 +57,8 @@
            "properties": {
                "name": "Andy Duckhole",
                "number": "3",
-               "picture": "https://lh3.googleusercontent.com/pw/AP1GczO2juce5CZ_-f4cmKqolZDHw9EMQj0Su8OhdpvK4_GXNRWZiFPKRF2euffxVU4BBL3a9aw-v-JQz01Zq1IL2naqhz1yH1e2a375O9IwcuuSSk4iKTE-F57n4vFRsVrjHaTnNxpW1caCxlVMsQ1w23YHow=w791-h1098-s-no-gm",
-               "url": "https://photos.app.goo.gl/aUp5ueHg6QyM9Cs69",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczNEioQvy_RN3k-xTf8ue4IlZkm8OKblTbpllQz24-yhOhAETVnxXEjIDGrayDOHk6l-5I4xCJ9pUi2uz1nFL9eg6xHefd-2gfsWTsHbYEawAmsi4TGrCnwziiqqPk2PBUMWrXC8344PnANqAbLUxAW01g=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/vP5NC3pf7F4LyAWq5",
                "swag": "https://www.ingress-swag.com/biocards/andy-duckhol",
                "description": "Say hello to Andy Duckhol – the flamboyant feathered icon of the Pop Art world.Bold, bright, and ready for the spotlight, this duck channels the spirit of Andy Warhol with vibrant colors and unmistakable attitude.Whether in the bath or on the shelf, Andy Duckhol proves that every duck deserves their 15 minutes of fame.",
                "from": "@altnaharra",
@@ -66,6 +66,28 @@
                "place": "Bratislava Airport"
            },
            "id": "3"
+       },
+       {
+           "type": "Feature",
+           "geometry": {
+               "coordinates": [
+                   18.00762,
+                   53.1235
+               ],
+               "type": "Point"
+           },
+           "properties": {
+               "name": "Captain quackbeard",
+               "number": "4",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczOYOEh6hNDyLqZkumTvpWtda_ZVsFSmqXpdfVTj7VmGYBW2e_6s-4gn2DMQLToPC6N6JZH4uI22MCzJoPsZx8GJSa4QNochj94tZbyazJ_xcEft_S2clB-pR3o6Er-7ZhFdDNACMrpbpKa9qiAM_kCKpg=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/qyQJJZjMGek7wKHc6",
+               "swag": "https://www.ingress-swag.com/biocards/captain-quackbeard",
+               "description": "A small blue pirate duck, proudly sailing from the Muzeum Mydła i Historii Brudu in Bydgoszcz.With its tiny tricorn hat, eyepatch, and swashbuckling charm, this fearless bathmate is ready to plunder soap bars and command the seven sinks.",
+               "from": "@Yeahfree",
+               "status": "Mule/bought",
+               "place": "Bydgoszcz, Poland"
+           },
+           "id": "4"
        }
    ]
 }
