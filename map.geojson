@@ -132,6 +132,28 @@
                "place": "Krakow, Poland"
            },
            "id": "6"
+       },
+       {
+           "type": "Feature",
+           "geometry": {
+               "coordinates": [
+                8.682,
+                50.11
+               ],
+               "type": "Point"
+           },
+           "properties": {
+               "name": "Devilquacker",
+               "number": "7",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczOAij4t2ExkqbyeF4QP29fc3pON8JNc7LJp_wQnLzCwC22jQqIZCFqCWgmbsp9rxYYW0jtP4k0pCdPzTqVY9Pz8PPUOrNox39GYs7am3HmmgRDVb4ojRjYmiTCzwhx1tda0_b6Ox50xTzVe8F8wHw5uwA=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/67ikFastJurV8kW29",
+               "swag": "https://www.ingress-swag.com/biocards/devilquacker",
+               "description": "This is Devilquacker – the fiery little devil of the labor front.With blazing red feathers, bold black horns, and the proud ver.di logo on its chest, this fearless duck stands for workers’ rights with every squeak. Originally a promotional mascot, its exact place of origin remains a mystery… but its rebellious spirit is unmistakable.",
+               "from": "@nightdir",
+               "status": "Gift",
+               "place": "Frankfurt, Germany"
+           },
+           "id": "7"
        }
    ]
 }
