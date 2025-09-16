@@ -154,6 +154,28 @@
                "place": "Frankfurt, Germany"
            },
            "id": "7"
+       },
+       {
+           "type": "Feature",
+           "geometry": {
+               "coordinates": [
+                11.3668037,
+                47.3004546
+               ],
+               "type": "Point"
+           },
+           "properties": {
+               "name": "Dutch Voyager",
+               "number": "8",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPW8TqT_cjxt6N1YhkGi1gMSx5mamQy2KM27yEWQ9rIpVUG-eWdVL-KkIea5HX4U5pjyV27vOfakKgzodOeRMgzhVNSmSZ3m55FTpfQzZVnYgLFOAtet-i-UeCT6PIrnwkLKe2ZFqf4mVX3OPUHyRwqPg=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/QzwrHydAUg3HD6m18",
+               "swag": "https://www.ingress-swag.com/biocards/dutch-voyager",
+               "description": "Meet Dutch Voyager – a globe-trotting duck with Dutch roots and a Slovakian stamp in its passport. Sporting the colors of adventure and a proud “U” on its chest, this waddling wanderer was picked up at Bratislava Airport and is ready to explore the world – one squeak at a time.",
+               "from": "@altnaharra",
+               "status": "Trade",
+               "place": "Innsbruck, Austria"
+           },
+           "id": "8"
        }
    ]
 }
