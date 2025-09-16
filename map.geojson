@@ -77,7 +77,7 @@
                "type": "Point"
            },
            "properties": {
-               "name": "Captain quackbeard",
+               "name": "Captain Quackbeard",
                "number": "4",
                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOYOEh6hNDyLqZkumTvpWtda_ZVsFSmqXpdfVTj7VmGYBW2e_6s-4gn2DMQLToPC6N6JZH4uI22MCzJoPsZx8GJSa4QNochj94tZbyazJ_xcEft_S2clB-pR3o6Er-7ZhFdDNACMrpbpKa9qiAM_kCKpg=w1081-h1441-s-no-gm",
                "url": "https://photos.app.goo.gl/qyQJJZjMGek7wKHc6",
@@ -88,6 +88,28 @@
                "place": "Bydgoszcz, Poland"
            },
            "id": "4"
+       },
+       {
+           "type": "Feature",
+           "geometry": {
+               "coordinates": [
+                   -3.19648,
+                   55.95206
+               ],
+               "type": "Point"
+           },
+           "properties": {
+               "name": "Ducktor Plague",
+               "number": "5",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczOnMsr2SFdYigbe2h990dEssJ9Y-54Dv4XY1hEA6uOmC-A2-Op6zappgScFZVtvcKFTVM1O5gLgVfDCjH9vsiumHT5qZKFDjX74ov3TLFNpY6Kyof84mAAGTmp2vvEiGL6PxerwCpHt5eFXL8S8mkK-bw=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/4LSj1dQfqb4oiuJt8",
+               "swag": "https://www.ingress-swag.com/biocards/ducktor-plague",
+               "description": "Meet Ducktor Plague – the beaked guardian of bath-time gloom. Dressed in a classic black plague doctor cloak with wide-brimmed hat and haunting mask, this eerie little duck brings medieval mystery to your rubber duck collection. A true relic of dark elegance… with a squeak.",
+               "from": "@Yeahfree",
+               "status": "Mule/bought",
+               "place": "Edinburgh, UK"
+           },
+           "id": "5"
        }
    ]
 }
