@@ -176,6 +176,28 @@
                "place": "Innsbruck, Austria"
            },
            "id": "8"
+       },
+       {
+           "type": "Feature",
+           "geometry": {
+               "coordinates": [
+                11.3668037,
+                47.3004546
+               ],
+               "type": "Point"
+           },
+           "properties": {
+               "name": "Fuelie",
+               "number": "9",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczMi0u0nxBqG0QLzwvfifwzp7YUYj-OZf93wmouv7hxuYDUVV2xVxfenLK5ZUKzIRVZsVXAvbgAQ2jIYI56cYLb6qH6L3Agdcd63Y4vXpED3EdcVJTOakdDWI9w6pUYCHUw6FO9OCjrNQqkRo-8kY6-jmQ=w1081-h1441-s-no-gm",
+               "url": "https://photos.app.goo.gl/oL6naDC2woCUizY26",
+               "swag": "https://www.ingress-swag.com/biocards/fuelie",
+               "description": "Say hello to Fuelie – the bright blue duck born to pump up your bath-time energy. With its signature ARAL branding and vibrant orange beak, this promotional duck made its way from Freiburg to your collection, leaving a trail of bubbles and high-octane charm.",
+               "from": " @derFreiburger",
+               "status": "Trade",
+               "place": "Innsbruck, Austria"
+           },
+           "id": "9"
        }
    ]
 }
